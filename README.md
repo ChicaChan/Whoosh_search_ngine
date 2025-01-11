@@ -52,8 +52,8 @@
 1. 克隆项目并安装依赖：
 
 ```bash
-git clone https://github.com/ChicaChan/Whoosh_search_ngine.git
-cd Whoosh_search_ngine
+git clone https://github.com/ChicaChan/Whoosh_search_engine.git
+cd Whoosh_search_engine
 pip install -r requirements.txt
 ```
 
