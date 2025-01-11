@@ -109,5 +109,3 @@ README.md
 - │ ├── import_news_bulk.py # 生成测试新闻数据
 - │ └── import_wiki_bulk.py # 爬取维基百科数据
 - └── manage.py # Django管理脚本
-```
-
