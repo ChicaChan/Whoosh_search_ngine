@@ -74,7 +74,7 @@ python manage.py createsuperuser
 
 ```bash
 python scripts/import_news_bulk.py
-
+```
 
 5. 创建搜索索引：
 
